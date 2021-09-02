@@ -25,6 +25,14 @@ const ContainerCabecalho = styled.div`
         font: 700 2.2em Montserrat;
     }
 
+    .logout {
+        font: 700 1.2em Montserrat;
+
+        margin-left: 0.8em;
+
+        color: hotpink;
+    }
+
 
     @media (max-width: 400px) {
         flex-direction: column;
